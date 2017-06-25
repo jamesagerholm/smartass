@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Smartass Publishers</title>
+	<link rel="stylesheet" type="text/css" href="style_2.css"/>
+	<link rel='stylesheet' type='text/css' href='bootstrap/css/bootstrap.min.css'/>
+	<link href="smart.ico" rel="icon" type="image/x-icon" />
+
+ 
+</head>
+
+<body>
+
+ 
+<div class="container">
+<div class="header">
+<div class="navbar navbar-default navbar-fixed-top">
+<div class="headerContent">	
+		<h1><span style="color:white">Smartass Publishers</span></h1>
+			
+	<div class="nav">
+		<ul>
+
+			<li><a href="file:///Users/jamesagerholm/Desktop/smartass/Smartass.html">HOME</a></li>
+			<li><a href="file:///Users/jamesagerholm/Desktop/smartass/About.html">ABOUT</a> </li>
+			<li><a href="file:///Users/jamesagerholm/Desktop/smartass/smartassreviews.html">REVIEWS</a></li>
+			<li><a href="file:///Users/jamesagerholm/Desktop/authors.html">AUTHORS</a></li>
+			<li><a href="mailto:flatboxpublishers@gmail.com">  SUBMISSIONS!!!</a></li>
+			<li><a href= "file:///Users/jamesagerholm/Desktop/smartass/smartassblog.html">SMARTASS BLOG</a></li>
+			</ul>
+		</div>
+		</div>
+
+	</div>
+</div>
+</div>
+<br/>
+ <div class ="N/A> <span style= "color:blue"><h>This author does not yet have a webpage for their publication</span></h></div>
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+<p><b>©Copyright, 2016, Smartass Publishers</b></p>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="smartassscript.js"></script>
+<script>
+
+
+      </script>
+
+
+
+
+
+
+
+
+</body>
+</html>
